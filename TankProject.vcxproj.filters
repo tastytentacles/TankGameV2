@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\main.cpp" />
+    <ClCompile Include="Source\rootClasses.cpp" />
+    <ClCompile Include="Source\TankClassFunctions.cpp" />
+    <ClCompile Include="Source\BBC.cpp" />
+    <ClCompile Include="Source\KeyIn.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\rootClasses.h" />
+    <ClInclude Include="Source\TankClasses.h" />
+    <ClInclude Include="Source\vertexHolder.h" />
+    <ClInclude Include="Source\BBC.h" />
+    <ClInclude Include="Source\KeyIn.h" />
+  </ItemGroup>
+</Project>
